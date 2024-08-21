@@ -1,0 +1,13 @@
+body{
+    font-size: 2rem;
+    text-align: center;
+}
+
+p{
+    font-style: italic;
+}
+
+button{
+    font-size: 2rem;
+    position: sticky;
+}

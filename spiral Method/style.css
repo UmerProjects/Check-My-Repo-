@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+}
+
+html, body {
+    padding: 10px;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+}
+
+
+h2{
+    font-size:small;
+    font-weight: 700;
+}
+
